@@ -1,71 +1,63 @@
-# Hey! I'm Saransh 👋  
+Saransh John – Full-Stack Developer 👋
+👨‍💻 Projects
+Momentum Dashboard ✅
 
-I am a highly driven **Full-Stack Developer** specializing in **React, Next.js, JavaScript, Node.js, SQL, and API development**. I’m passionate about building fast, scalable, and modern web applications with clean UI, efficient architecture, and smooth user experiences.
+A dynamic dashboard built with Next.js, Tailwind CSS, and Express.js.
 
-I’m also currently exploring **Google Antigravity technology**, applying it to a conceptual project to understand its potential impact on future systems.
+Features real-time data updates and responsive UI
 
----
+Clean, modern design for monitoring metrics and insights
 
-## 🔭 What I’m Currently Working On
-- Full-stack applications using **React & Next.js**  
-- Backend development with **Node.js & Express**  
-- Antigravity-based experimental project  
-- Strengthening AI/ML fundamentals  
-- Expanding portfolio projects for software engineering roles  
+Fully functional backend integration with Express.js
 
----
+Albert AI 🔄 (In Progress)
 
-## 💼 Technical Skills
+An AI fitness trainer built with Next.js, Tailwind CSS, Node.js, and Express.js.
 
-### **Frontend Development**
-- React.js, Next.js  
-- JavaScript (ES6+), HTML5, CSS3  
-- Tailwind CSS  
-- Responsive UI & API Integration  
+Provides AI-assisted workout guidance
 
-### **Backend Development**
-- Node.js, Express.js  
-- RESTful API Development  
-- SQL & MySQL  
-- JWT Authentication & Middleware  
+Dynamic charts to track progress
 
-### **Programming / Tools**
-- Python  
-- Git & GitHub  
-- VS Code  
-- Postman  
-- Basic AI/ML concepts  
+Secure JWT authentication for users
 
----
+API endpoints tested via Postman
 
-## 💬 Ask Me About  
-- React & Next.js  
-- Full-stack architecture  
-- API development  
-- Antigravity tech project  
+Antigravity Concept Project 🌌 (Experimental)
 
----
+Exploring Google Antigravity technology and its conceptual applications in modern systems.
 
-## ⚡ Fun Facts  
-- Fitness and gym enthusiast 💪  
-- Passionate about AI, tech innovation, and building things that matter  
+Portfolio Website 🌐 (Upcoming)
 
----
+A clean and interactive Next.js portfolio to showcase projects and skills.
 
-## 👨‍💻 Projects (Ongoing & Upcoming)
-- Modern React dashboard (UI/UX focused)  
-- Full-stack Next.js authentication system  
-- Antigravity concept project  
-- Portfolio website (Next.js)  
-- Python automation & data scripts  
+Python Automation & Data Scripts 🐍
 
----
+Various scripts for automation, data processing, and productivity enhancement.
 
-## 🤝 Connect With Me  
-- **LinkedIn:** https://www.linkedin.com/in/saranshjohn  
-- **GitHub:** https://github.com/johnsaransh  
+💼 Technical Skills
 
----
+Frontend: React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Responsive UI, API Integration
+Backend: Node.js, Express.js, RESTful APIs, SQL & MySQL, JWT Authentication
+Tools / Programming: Python, Git & GitHub, VS Code, Postman, Basic AI/ML concepts
 
-## 📫 How to Reach Me  
-**Email:** saranshjohn2003@gmail.com  
+🔭 Current Focus
+
+Expanding AI/ML skills
+
+Building full-stack projects with real-world application
+
+Experimenting with antigravity tech concepts
+
+⚡ Fun Facts
+
+Passionate about AI, tech innovation, and building things that matter
+
+Fitness enthusiast
+
+🤝 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/saranshjohn
+
+GitHub: https://github.com/johnsaransh
+
+Email: saranshjohn2003@gmail.com
